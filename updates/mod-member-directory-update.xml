@@ -2,11 +2,30 @@
 <updates>
     <update>
         <name>Member Directory</name>
+        <description>Version 2.0.3: Migrate to Kabinary domain name</description>
+        <element>mod_member_directory</element>
+        <type>module</type>
+        <version>2.0.3</version>
+        <infourl title="Member Directory Module">https://joomla.kabinary.com/member-directory-module-demo</infourl>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/oumarkb/cms-modules-downloads/raw/refs/heads/main/downloads/Member%20Directory/mod_member_directory_v2.0.3.zip</downloadurl>
+        </downloads>
+        <sha256>fe886b5583b164014fe7bbf45bff8564fc414f562389fc65f68bf712fb93e258</sha256>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <maintainer>Kabinary</maintainer>
+        <maintainerurl>https://joomla.kabinary.com</maintainerurl>
+        <targetplatform name="joomla" version="^4 || ^5"/>
+        <client>site</client>
+    </update>
+    <update>
+        <name>Member Directory</name>
         <description>Version 2.0.2: Implement caching for faster searches</description>
         <element>mod_member_directory</element>
         <type>module</type>
         <version>2.0.2</version>
-        <infourl title="Member Directory Module">https://www.xcelerate-future.com/member-directory-module-demo</infourl>
+        <infourl title="Member Directory Module">https://joomla.kabinary.com/member-directory-module-demo</infourl>
         <downloads>
             <downloadurl type="full" format="zip">https://github.com/oumarkb/cms-modules-downloads/raw/refs/heads/main/downloads/Member%20Directory/mod_member_directory_v2.0.2.zip</downloadurl>
         </downloads>
@@ -14,8 +33,8 @@
         <tags>
             <tag>stable</tag>
         </tags>
-        <maintainer>Xcelerate</maintainer>
-        <maintainerurl>https://www.xcelerate-future.com</maintainerurl>
+        <maintainer>Kabinary</maintainer>
+        <maintainerurl>https://joomla.kabinary.com</maintainerurl>
         <targetplatform name="joomla" version="^4 || ^5"/>
         <client>site</client>
     </update>
@@ -25,7 +44,7 @@
         <element>mod_member_directory</element>
         <type>module</type>
         <version>2.0.1</version>
-        <infourl title="Member Directory Module">https://www.xcelerate-future.com/member-directory-module-demo</infourl>
+        <infourl title="Member Directory Module">https://joomla.kabinary.com/member-directory-module-demo</infourl>
         <downloads>
             <downloadurl type="full" format="zip">https://github.com/oumarkb/cms-modules-downloads/raw/refs/heads/main/downloads/Member%20Directory/mod_member_directory_v2.0.1.zip</downloadurl>
         </downloads>
@@ -33,8 +52,8 @@
         <tags>
             <tag>stable</tag>
         </tags>
-        <maintainer>Xcelerate</maintainer>
-        <maintainerurl>https://www.xcelerate-future.com</maintainerurl>
+        <maintainer>Kabinary</maintainer>
+        <maintainerurl>https://joomla.kabinary.com</maintainerurl>
         <targetplatform name="joomla" version="^4 || ^5"/>
         <client>site</client>
     </update>
@@ -44,7 +63,7 @@
         <element>mod_member_directory</element>
         <type>module</type>
         <version>2.0.0</version>
-        <infourl title="Member Directory Module">https://www.xcelerate-future.com/member-directory-module-demo</infourl>
+        <infourl title="Member Directory Module">https://joomla.kabinary.com/member-directory-module-demo</infourl>
         <downloads>
             <downloadurl type="full" format="zip">https://github.com/oumarkb/cms-modules-downloads/raw/refs/heads/main/downloads/Member%20Directory/mod_member_directory_v2.0.0.zip</downloadurl>
         </downloads>
@@ -52,8 +71,8 @@
         <tags>
             <tag>stable</tag>
         </tags>
-        <maintainer>Xcelerate</maintainer>
-        <maintainerurl>https://www.xcelerate-future.com</maintainerurl>
+        <maintainer>Kabinary</maintainer>
+        <maintainerurl>https://joomla.kabinary.com</maintainerurl>
         <targetplatform name="joomla" version="^4 || ^5"/>
         <client>site</client>
     </update>
@@ -63,7 +82,7 @@
         <element>mod_member_directory</element>
         <type>module</type>
         <version>1.0.3</version>
-        <infourl title="Member Directory Module">https://www.xcelerate-future.com/member-directory-module-demo</infourl>
+        <infourl title="Member Directory Module">https://joomla.kabinary.com/member-directory-module-demo</infourl>
         <downloads>
             <downloadurl type="full" format="zip">https://github.com/oumarkb/cms-modules-downloads/raw/refs/heads/main/downloads/Member%20Directory/mod_member_directory_v1.0.3.zip</downloadurl>
         </downloads>
@@ -71,8 +90,8 @@
         <tags>
             <tag>stable</tag>
         </tags>
-        <maintainer>Xcelerate</maintainer>
-        <maintainerurl>https://www.xcelerate-future.com</maintainerurl>
+        <maintainer>Kabinary</maintainer>
+        <maintainerurl>https://joomla.kabinary.com</maintainerurl>
         <targetplatform name="joomla" version="^4 || ^5"/>
         <client>site</client>
     </update>
@@ -82,7 +101,7 @@
         <element>mod_member_directory</element>
         <type>module</type>
         <version>1.0.2</version>
-        <infourl title="Member Directory Module">https://www.xcelerate-future.com/member-directory-module-demo</infourl>
+        <infourl title="Member Directory Module">https://joomla.kabinary.com/member-directory-module-demo</infourl>
         <downloads>
             <downloadurl type="full" format="zip">https://github.com/oumarkb/cms-modules-downloads/raw/refs/heads/main/downloads/Member%20Directory/mod_member_directory_v1.0.2.zip</downloadurl>
         </downloads>
@@ -90,8 +109,8 @@
         <tags>
             <tag>stable</tag>
         </tags>
-        <maintainer>Xcelerate</maintainer>
-        <maintainerurl>https://www.xcelerate-future.com</maintainerurl>
+        <maintainer>Kabinary</maintainer>
+        <maintainerurl>https://joomla.kabinary.com</maintainerurl>
         <targetplatform name="joomla" version="^4 || ^5"/>
         <client>site</client>
     </update>
@@ -101,7 +120,7 @@
         <element>mod_member_directory</element>
         <type>module</type>
         <version>1.0.1</version>
-        <infourl title="Member Directory Module">https://www.xcelerate-future.com/member-directory-module-demo</infourl>
+        <infourl title="Member Directory Module">https://joomla.kabinary.com/member-directory-module-demo</infourl>
         <downloads>
             <downloadurl type="full" format="zip">https://github.com/oumarkb/cms-modules-downloads/raw/refs/heads/main/downloads/Member%20Directory/mod_member_directory_v1.0.1.zip</downloadurl>
         </downloads>
@@ -109,8 +128,8 @@
         <tags>
             <tag>stable</tag>
         </tags>
-        <maintainer>Xcelerate</maintainer>
-        <maintainerurl>https://www.xcelerate-future.com</maintainerurl>
+        <maintainer>Kabinary</maintainer>
+        <maintainerurl>https://joomla.kabinary.com</maintainerurl>
         <targetplatform name="joomla" version="^4 || ^5"/>
         <client>site</client>
     </update>
@@ -120,7 +139,7 @@
         <element>mod_member_directory</element>
         <type>module</type>
         <version>1.0.0</version>
-        <infourl title="Member Directory Module">https://www.xcelerate-future.com/member-directory-module-demo</infourl>
+        <infourl title="Member Directory Module">https://joomla.kabinary.com/member-directory-module-demo</infourl>
         <downloads>
             <downloadurl type="full" format="zip">https://github.com/oumarkb/cms-modules-downloads/raw/refs/heads/main/downloads/Member%20Directory/mod_member_directory_v1.0.0.zip</downloadurl>
         </downloads>
@@ -128,8 +147,8 @@
         <tags>
             <tag>stable</tag>
         </tags>
-        <maintainer>Xcelerate</maintainer>
-        <maintainerurl>https://www.xcelerate-future.com</maintainerurl>
+        <maintainer>Kabinary</maintainer>
+        <maintainerurl>https://joomla.kabinary.com</maintainerurl>
         <targetplatform name="joomla" version="^4 || ^5"/>
         <client>site</client>
     </update>

@@ -1,6 +1,6 @@
 # CMS Modules Downloads
 
-Welcome to the official repository for **CMS Modules Downloads**, your go-to source for premium Joomla modules created by Xcelerate.
+Welcome to the official repository for **CMS Modules Downloads**, your go-to source for premium Joomla modules created by Kabinary.
 
 ## About This Repository
 
@@ -14,15 +14,15 @@ To get started with our modules:
    Browse this repository and download the latest version of the module ZIP file that suits your needs.
 
 2. **Follow the Installation Guide**  
-   Detailed instructions on installing and activating your module can be found on our [website](https://www.xcelerate-future.com).
+   Detailed instructions on installing and activating your module can be found on our [website](https://joomla.kabinary.com).
 
 ## Support
 
 If you encounter any issues or have questions about our modules, feel free to reach out to us:  
-📧 Email: [contact@xcelerate-future.com](mailto:contact@xcelerate-future.com)
+📧 Email: [contact@kabinary.com](mailto:contact@kabinary.com)
 
 ## Disclaimer
 
 These modules are exclusively designed for Joomla websites. We regularly update and test our modules to ensure compatibility and performance.
 
-Thank you for choosing Xcelerate to power your Joomla website!
+Thank you for choosing Kabinary to power your Joomla website!
