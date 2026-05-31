@@ -2,20 +2,39 @@
 <updates>
     <update>
         <name>Member Directory</name>
+        <description>Version 2.0.4: JED compliance (domain, modern Joomla API, language files)</description>
+        <element>mod_member_directory</element>
+        <type>module</type>
+        <version>2.0.4</version>
+        <infourl title="Member Directory Module">https://modules.kabinary.com/member-directory-module-demo</infourl>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/kabinary/cms-modules-downloads/raw/refs/heads/main/downloads/Member%20Directory/mod_member_directory_v2.0.4.zip</downloadurl>
+        </downloads>
+        <sha256>77838fda8c29452b1e6d6c6aa50623cc89805f2e6d928053101ccb687f88018b</sha256>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <maintainer>Kabinary</maintainer>
+        <maintainerurl>https://modules.kabinary.com</maintainerurl>
+        <targetplatform name="joomla" version="^4 || ^5"/>
+        <client>site</client>
+    </update>
+    <update>
+        <name>Member Directory</name>
         <description>Version 2.0.3: Migrate to Kabinary domain name</description>
         <element>mod_member_directory</element>
         <type>module</type>
         <version>2.0.3</version>
-        <infourl title="Member Directory Module">https://joomla.kabinary.com/member-directory-module-demo</infourl>
+        <infourl title="Member Directory Module">https://modules.kabinary.com/member-directory-module-demo</infourl>
         <downloads>
-            <downloadurl type="full" format="zip">https://github.com/oumarkb/cms-modules-downloads/raw/refs/heads/main/downloads/Member%20Directory/mod_member_directory_v2.0.3.zip</downloadurl>
+            <downloadurl type="full" format="zip">https://github.com/kabinary/cms-modules-downloads/raw/refs/heads/main/downloads/Member%20Directory/mod_member_directory_v2.0.3.zip</downloadurl>
         </downloads>
         <sha256>fe886b5583b164014fe7bbf45bff8564fc414f562389fc65f68bf712fb93e258</sha256>
         <tags>
             <tag>stable</tag>
         </tags>
         <maintainer>Kabinary</maintainer>
-        <maintainerurl>https://joomla.kabinary.com</maintainerurl>
+        <maintainerurl>https://modules.kabinary.com</maintainerurl>
         <targetplatform name="joomla" version="^4 || ^5"/>
         <client>site</client>
     </update>
@@ -25,16 +44,16 @@
         <element>mod_member_directory</element>
         <type>module</type>
         <version>2.0.2</version>
-        <infourl title="Member Directory Module">https://joomla.kabinary.com/member-directory-module-demo</infourl>
+        <infourl title="Member Directory Module">https://modules.kabinary.com/member-directory-module-demo</infourl>
         <downloads>
-            <downloadurl type="full" format="zip">https://github.com/oumarkb/cms-modules-downloads/raw/refs/heads/main/downloads/Member%20Directory/mod_member_directory_v2.0.2.zip</downloadurl>
+            <downloadurl type="full" format="zip">https://github.com/kabinary/cms-modules-downloads/raw/refs/heads/main/downloads/Member%20Directory/mod_member_directory_v2.0.2.zip</downloadurl>
         </downloads>
         <sha256>31d2770d21fb00948dee8be16272eaf4b8143d0e5b441ed67dc8a2beb6f887dd</sha256>
         <tags>
             <tag>stable</tag>
         </tags>
         <maintainer>Kabinary</maintainer>
-        <maintainerurl>https://joomla.kabinary.com</maintainerurl>
+        <maintainerurl>https://modules.kabinary.com</maintainerurl>
         <targetplatform name="joomla" version="^4 || ^5"/>
         <client>site</client>
     </update>
@@ -44,16 +63,16 @@
         <element>mod_member_directory</element>
         <type>module</type>
         <version>2.0.1</version>
-        <infourl title="Member Directory Module">https://joomla.kabinary.com/member-directory-module-demo</infourl>
+        <infourl title="Member Directory Module">https://modules.kabinary.com/member-directory-module-demo</infourl>
         <downloads>
-            <downloadurl type="full" format="zip">https://github.com/oumarkb/cms-modules-downloads/raw/refs/heads/main/downloads/Member%20Directory/mod_member_directory_v2.0.1.zip</downloadurl>
+            <downloadurl type="full" format="zip">https://github.com/kabinary/cms-modules-downloads/raw/refs/heads/main/downloads/Member%20Directory/mod_member_directory_v2.0.1.zip</downloadurl>
         </downloads>
         <checksum type="md5">b48379b5761a6b1028be0b18fd7acc57</checksum>
         <tags>
             <tag>stable</tag>
         </tags>
         <maintainer>Kabinary</maintainer>
-        <maintainerurl>https://joomla.kabinary.com</maintainerurl>
+        <maintainerurl>https://modules.kabinary.com</maintainerurl>
         <targetplatform name="joomla" version="^4 || ^5"/>
         <client>site</client>
     </update>
@@ -63,16 +82,16 @@
         <element>mod_member_directory</element>
         <type>module</type>
         <version>2.0.0</version>
-        <infourl title="Member Directory Module">https://joomla.kabinary.com/member-directory-module-demo</infourl>
+        <infourl title="Member Directory Module">https://modules.kabinary.com/member-directory-module-demo</infourl>
         <downloads>
-            <downloadurl type="full" format="zip">https://github.com/oumarkb/cms-modules-downloads/raw/refs/heads/main/downloads/Member%20Directory/mod_member_directory_v2.0.0.zip</downloadurl>
+            <downloadurl type="full" format="zip">https://github.com/kabinary/cms-modules-downloads/raw/refs/heads/main/downloads/Member%20Directory/mod_member_directory_v2.0.0.zip</downloadurl>
         </downloads>
         <checksum>ba1b178807843b6b6800a04ec4f53049</checksum>
         <tags>
             <tag>stable</tag>
         </tags>
         <maintainer>Kabinary</maintainer>
-        <maintainerurl>https://joomla.kabinary.com</maintainerurl>
+        <maintainerurl>https://modules.kabinary.com</maintainerurl>
         <targetplatform name="joomla" version="^4 || ^5"/>
         <client>site</client>
     </update>
@@ -82,16 +101,16 @@
         <element>mod_member_directory</element>
         <type>module</type>
         <version>1.0.3</version>
-        <infourl title="Member Directory Module">https://joomla.kabinary.com/member-directory-module-demo</infourl>
+        <infourl title="Member Directory Module">https://modules.kabinary.com/member-directory-module-demo</infourl>
         <downloads>
-            <downloadurl type="full" format="zip">https://github.com/oumarkb/cms-modules-downloads/raw/refs/heads/main/downloads/Member%20Directory/mod_member_directory_v1.0.3.zip</downloadurl>
+            <downloadurl type="full" format="zip">https://github.com/kabinary/cms-modules-downloads/raw/refs/heads/main/downloads/Member%20Directory/mod_member_directory_v1.0.3.zip</downloadurl>
         </downloads>
         <checksum type="md5">0f813740b8ba5bfb65e8297fa7c86b1a</checksum>
         <tags>
             <tag>stable</tag>
         </tags>
         <maintainer>Kabinary</maintainer>
-        <maintainerurl>https://joomla.kabinary.com</maintainerurl>
+        <maintainerurl>https://modules.kabinary.com</maintainerurl>
         <targetplatform name="joomla" version="^4 || ^5"/>
         <client>site</client>
     </update>
@@ -101,16 +120,16 @@
         <element>mod_member_directory</element>
         <type>module</type>
         <version>1.0.2</version>
-        <infourl title="Member Directory Module">https://joomla.kabinary.com/member-directory-module-demo</infourl>
+        <infourl title="Member Directory Module">https://modules.kabinary.com/member-directory-module-demo</infourl>
         <downloads>
-            <downloadurl type="full" format="zip">https://github.com/oumarkb/cms-modules-downloads/raw/refs/heads/main/downloads/Member%20Directory/mod_member_directory_v1.0.2.zip</downloadurl>
+            <downloadurl type="full" format="zip">https://github.com/kabinary/cms-modules-downloads/raw/refs/heads/main/downloads/Member%20Directory/mod_member_directory_v1.0.2.zip</downloadurl>
         </downloads>
         <checksum type="md5">49e28839f9a1b96edc527e405b8cc120</checksum>
         <tags>
             <tag>stable</tag>
         </tags>
         <maintainer>Kabinary</maintainer>
-        <maintainerurl>https://joomla.kabinary.com</maintainerurl>
+        <maintainerurl>https://modules.kabinary.com</maintainerurl>
         <targetplatform name="joomla" version="^4 || ^5"/>
         <client>site</client>
     </update>
@@ -120,16 +139,16 @@
         <element>mod_member_directory</element>
         <type>module</type>
         <version>1.0.1</version>
-        <infourl title="Member Directory Module">https://joomla.kabinary.com/member-directory-module-demo</infourl>
+        <infourl title="Member Directory Module">https://modules.kabinary.com/member-directory-module-demo</infourl>
         <downloads>
-            <downloadurl type="full" format="zip">https://github.com/oumarkb/cms-modules-downloads/raw/refs/heads/main/downloads/Member%20Directory/mod_member_directory_v1.0.1.zip</downloadurl>
+            <downloadurl type="full" format="zip">https://github.com/kabinary/cms-modules-downloads/raw/refs/heads/main/downloads/Member%20Directory/mod_member_directory_v1.0.1.zip</downloadurl>
         </downloads>
         <checksum type="md5">05b0783b9250bd2f779c193e1a6ca04d</checksum>
         <tags>
             <tag>stable</tag>
         </tags>
         <maintainer>Kabinary</maintainer>
-        <maintainerurl>https://joomla.kabinary.com</maintainerurl>
+        <maintainerurl>https://modules.kabinary.com</maintainerurl>
         <targetplatform name="joomla" version="^4 || ^5"/>
         <client>site</client>
     </update>
@@ -139,16 +158,16 @@
         <element>mod_member_directory</element>
         <type>module</type>
         <version>1.0.0</version>
-        <infourl title="Member Directory Module">https://joomla.kabinary.com/member-directory-module-demo</infourl>
+        <infourl title="Member Directory Module">https://modules.kabinary.com/member-directory-module-demo</infourl>
         <downloads>
-            <downloadurl type="full" format="zip">https://github.com/oumarkb/cms-modules-downloads/raw/refs/heads/main/downloads/Member%20Directory/mod_member_directory_v1.0.0.zip</downloadurl>
+            <downloadurl type="full" format="zip">https://github.com/kabinary/cms-modules-downloads/raw/refs/heads/main/downloads/Member%20Directory/mod_member_directory_v1.0.0.zip</downloadurl>
         </downloads>
         <checksum type="md5">0dd71092d8635076063403d6aeb38a8a</checksum>
         <tags>
             <tag>stable</tag>
         </tags>
         <maintainer>Kabinary</maintainer>
-        <maintainerurl>https://joomla.kabinary.com</maintainerurl>
+        <maintainerurl>https://modules.kabinary.com</maintainerurl>
         <targetplatform name="joomla" version="^4 || ^5"/>
         <client>site</client>
     </update>
