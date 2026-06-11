@@ -14,7 +14,12 @@ To get started with our modules:
    Browse this repository and download the latest version of the module ZIP file that suits your needs.
 
 2. **Follow the Installation Guide**  
-   Detailed instructions on installing and activating your module can be found on our [website](https://joomla.kabinary.com).
+   Detailed instructions on installing and activating your module can be found on our [website](https://modules.kabinary.com).
+
+## Repository Layout
+
+- `downloads/` - installable module ZIP archives, one folder per module
+- `updates/` - Joomla update-server XML manifests consumed by the Joomla updater
 
 ## Support
 
